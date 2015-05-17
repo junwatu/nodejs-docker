@@ -1,0 +1,12 @@
+{
+  "name": "simple-server",
+  "private": true,
+  "version": "1.0.0",
+  "description": "node.js web server",
+  "main": "app.js",
+  "author": "Equan Pr",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
