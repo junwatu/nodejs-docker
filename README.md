@@ -14,7 +14,7 @@ Install docker first (please look on the docker website installation guide for t
 
 If you don't want build docker image yourself you can pull from this link
  
-    https://registry.hub.docker.com/u/junwatu/nodejs-docker/
+    [nodejs-docker image](https://registry.hub.docker.com/u/junwatu/nodejs-docker/)
 
 #Run
 
