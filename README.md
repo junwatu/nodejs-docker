@@ -12,7 +12,7 @@ Install docker first (please look on the docker website installation guide for t
      
 #Docker Image
 
-If you don't want build by yourself you can pull docker image from this link
+If you don't want build docker image yourself you can pull from this link
  
     https://registry.hub.docker.com/u/junwatu/nodejs-docker/
 
@@ -32,7 +32,6 @@ Use browser or use curl to test web server
     
     
 
----
 
 The MIT License (MIT)
 
